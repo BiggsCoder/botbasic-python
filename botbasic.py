@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 
 now = datetime.now()
-bot = telepot.Bot('388360723:AAGQeDAfYgWyW7Kw7ajNTDQmC_NZ1sVDfig')
+bot = telepot.Bot('TOKEN')
 
 
 def handle(msg):
